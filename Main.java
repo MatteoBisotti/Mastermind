@@ -53,11 +53,6 @@ public class Main {
         }
 
         System.out.println("\nIl gioco ha scelto la sua sequenza di " + numero + " colori, ora tocca a te " + giocatore.toString() + "...fai la tua prima scelta\n");
-
-        for (int i=0; i<sequenza_gioco.size(); i++) {
-            System.out.print(sequenza_gioco.get(i) + " ");
-        }
-        System.out.println();
         
         // Inizio del gioco
         for (int i=0; i<10; i++) {
