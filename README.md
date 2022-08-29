@@ -1,2 +1,2 @@
 # Mastermind
-This repo contains a very simple version of the classic boardgame "Mastermind".
+This repo contains a simple version of the classic boardgame "Mastermind".
